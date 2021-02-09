@@ -27,7 +27,7 @@ Very positive and attractive guy =)
 ### *Skills*
 ---
 - HTML
-- CSS
+- CSS, SCSS
 - JS
 - React
 - Redux
