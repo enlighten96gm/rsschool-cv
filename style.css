@@ -1,0 +1,99 @@
+.data-main{
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+
+.ullia {
+    line-height: 22px;
+}
+
+.newBlock {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+
+.about-me {
+    display: block;
+    margin: 0 auto;
+    max-width: 960px;
+    color: #34342E;
+    background-color: khaki;
+}
+
+.about-me a {
+    color: black;
+}
+
+.greeting {
+display: flex;
+justify-content: center;
+margin: 0 auto;
+}
+
+.avatar-section {
+    display: flex;
+}
+
+.avatar-block img {
+    padding: 5px;
+    max-width: 300px;
+}
+.avatar-block img:hover {
+    transform: scale(1.1);
+}
+
+.personal-data-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+.personal-data-block_info li {
+    padding-bottom: 10px;
+    list-style-type: none;
+}
+
+.objective-section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.objective-section span {
+    margin-left: 20px;
+}
+
+.skills-block {
+    display: flex;
+    justify-content: center;
+}
+
+.tech-skills-section {
+    min-height: 170px;
+    max-height: 180px;
+    min-width: 300px;
+}
+
+.languages-section {
+    max-height: 190px;
+    min-width: 300px;
+}
+
+.education-section {
+    min-width: 300px;
+    max-height: 190px;
+}
+
+.several-facts-section {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.several-facts-section ul {
+    margin-left: 10px;
+}
