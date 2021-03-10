@@ -97,3 +97,9 @@ margin: 0 auto;
 .several-facts-section ul {
     margin-left: 10px;
 }
+nav a {
+    position: relative;
+    left: 480px;
+    text-decoration: none;
+    font-size: 30px;
+}
